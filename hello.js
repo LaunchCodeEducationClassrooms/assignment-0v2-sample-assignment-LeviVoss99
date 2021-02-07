@@ -3,5 +3,5 @@ function hello() {
 	// when you hit the replit run button
 	return "Hello world!";
 }
- 
+
 module.exports = hello;
